@@ -31,23 +31,27 @@ Lastly, I removed duplicate entries, removed rows with NULL values, and tidied u
 Looking at the results, my  recommendation is to go with Boeing and Bombardier for a Commercial manufacturer. For private, go with Cessna and Piper. 
 
 ### Fatality Rate by Manufacturers
-![graph1](file:///C:/Users/User/Downloads/comm_engine_fatality_rate.jpg)
+![image](https://github.com/kiamaikocoders/Aviation-Business-Project/assets/94165661/3b66d170-d3cd-449d-bddf-b70ff33c8415)
 
 
-![graph2](file:///C:/Users/User/Downloads/comm_make_fatality_rate.jpg)
+
+![image](https://github.com/kiamaikocoders/Aviation-Business-Project/assets/94165661/0b1c205f-e77d-4b20-8723-409be35437d9)
+
 
 Boeing and Bombardier are almost equal at the lowest fatality rate of the manufacturers. Cessna leads the private manufacturers in this area.
 
 ### Fatality Rate by Engine Type
-![graph3](images/private_engine_fatality_rate.jpg)
+![image](https://github.com/kiamaikocoders/Aviation-Business-Project/assets/94165661/fc2c1edd-020e-4911-a281-5ac2bfc148b7)
 
-![graph4](images/private_make_fatality_rate.jpg)
+![image](https://github.com/kiamaikocoders/Aviation-Business-Project/assets/94165661/bb5b1049-0e66-453b-854e-497d3093c895)
+
 
 Go with a Turbo Fan or Turbo Jet as the engine for commercial makes. For a private make, go with a Reciprocating or Turbo Fan engine. 
 
 ### Correlation of Total Passengers Onboard and Uninjured Passengers
 
-![graph5](images/size_corr_heatmap.jpg)
+![image](https://github.com/kiamaikocoders/Aviation-Business-Project/assets/94165661/8b9fc0ef-0358-47ab-a5a4-431ac640069d)
+
 
 For both, size matters. The bigger the airplane, the safer. 
 
