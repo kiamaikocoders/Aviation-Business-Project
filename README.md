@@ -6,7 +6,7 @@
 
 Our client is expanding into the aircraft industry. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, and want to know more about the potential risks of aircraft. 
 
-We are here to determine which airplane manufacturer is the lowest risk for the company to start this new business endeavor.
+We are to determine which airplane manufacturer is the lowest risk for the company to start this new business endeavor.
 
 ## Data
 
@@ -20,18 +20,18 @@ This will give a good idea of what which manufacturers are most reliable to inve
 
 ## Methods
 
-We first prepared the data set by creating a column called fatality rate. This was done by summing together the number of injured passengers with the number of uninjured to get the total number of people onboard. We then divide number of fatalities by total onboard to get the fatality rate. 
+I prepared the data set by creating a column called fatality rate. This was done by summing together the number of injured passengers with the number of uninjured to get the total number of people onboard. then I divide the number of fatalities by total onboard to get the fatality rate. 
 
-We then identified the necessary and unnecessary columns based on the business needs and dropped the unneccesary ones. 
+I then identified the necessary and unnecessary columns based on the business needs and dropped the unneccesary ones. 
 
-Lastly, we removed duplicate entries, removed rows with NULL values, and tidied up formatting. 
+Lastly, I removed duplicate entries, removed rows with NULL values, and tidied up formatting. 
 
 ## Results
 
-Looking at our results, our recommendations is to go with Boeing and Bombardier for a Commercial manufacturer. For private, go with Cessna and Piper. 
+Looking at the results, my  recommendation is to go with Boeing and Bombardier for a Commercial manufacturer. For private, go with Cessna and Piper. 
 
 ### Fatality Rate by Manufacturers
-![graph1](./images/comm_make_fatality_rate.jpg)
+![graph1]((https://github.com/kiamaikocoders/.../raw/main/images/comm_make_fatality_rate.jpg))
 
 
 ![graph2](./images/private_make_fatality_rate.jpg)
@@ -81,9 +81,9 @@ Numbers of events could indicate a big popularity of these 2 makes among clients
 
 ## For More Information
 
-Please review our full analysis in our [Jupyter Notebook](Aviation_Business_Project.ipynb) or our [presentation](presentation.pdf).
+Please review the full analysis in  [Jupyter Notebook](Aviation_Business_Project.ipynb) or  [presentation](presentation.pdf).
 
-Please review our [Tableau public](https://public.tableau.com/app/profile/andy.shen6894/viz/AirsafetyProject10_05_23/Dashboard4) as well.
+Please review my [Tableau public](https://public.tableau.com/app/profile/andy.shen6894/viz/AirsafetyProject10_05_23/Dashboard4) as well.
 
 For any additional questions,contact me Via email komuzack@gmail.com
 
@@ -91,7 +91,7 @@ For any additional questions,contact me Via email komuzack@gmail.com
 
 You are in the README.md. 
 
-'Index.ipynb' contains the jupyter notebook that explains our data science steps for you to replicate. In 'notebooks' contains past versions of the jupyter notebook. 'Slides.pdf' contains our slides presentation that sums up important information for the client or audience. In 'data' you will be able to see the dataset we worked with. Likewise, 'images' will contain images used in this 'README.md' generated from code and as well as from the web.
+'Index.ipynb' contains the jupyter notebook that explains the data science steps for you to replicate. 'Slides.pdf' contains  slides presentation that sums up important information for the client or audience. In 'data' you will be able to see the dataset worked with. Likewise, 'images' will contain images used in this 'README.md' generated from code and as well as from the web.
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
