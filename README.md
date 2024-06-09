@@ -87,7 +87,7 @@ Numbers of events could indicate a big popularity of these 2 makes among clients
 
 Please review the full analysis in  [Jupyter Notebook](Aviation_Business_Project.ipynb) or  [presentation](presentation.pdf).
 
-Please review my [Tableau public](https://public.tableau.com/app/profile/andy.shen6894/viz/AirsafetyProject10_05_23/Dashboard4) as well.
+Please review my [Tableau public](https://public.tableau.com/app/profile/zachariah.komu/viz/Aviation-Business-Project/Dashboard1?publish=yes)) as well.
 
 For any additional questions,contact me Via email komuzack@gmail.com
 
